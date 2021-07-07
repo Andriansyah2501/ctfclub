@@ -1,0 +1,5 @@
+\babel@toc {indonesian}{}
+\contentsline {chapter}{Forensic}{2}{}%
+\contentsline {section}{PNG\_or\_Not}{2}{}%
+\contentsline {section}{disk.img}{2}{}%
+\contentsline {chapter}{Web Exploitation}{4}{}%
